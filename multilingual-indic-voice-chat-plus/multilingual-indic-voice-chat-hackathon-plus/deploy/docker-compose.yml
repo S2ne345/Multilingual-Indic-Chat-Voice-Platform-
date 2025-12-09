@@ -1,8 +1,0 @@
-
-services:
-  backend:
-    build: ../backend
-    ports:
-      - "8000:8000"
-    environment:
-      - KB_PATH=/app/app/../../data/kb
