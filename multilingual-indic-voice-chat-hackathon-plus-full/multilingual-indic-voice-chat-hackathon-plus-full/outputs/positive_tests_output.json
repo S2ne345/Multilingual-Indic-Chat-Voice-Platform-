@@ -1,0 +1,13 @@
+[
+  {
+    "query": "How to apply for a ration card?",
+    "lang": "en",
+    "answer": "(en) Relevant info found:\n- How to apply for a ration card? Visit the state civil supplies department portal. Submit proof of residence and identity. Processing typically takes 15–30 days.\n- How to check pension status? Use the e-pension portal with your ID; status updates appear within 48 hours after processing.\n- What documents are required for Aadhaar update? Valid ID proof, address proof, and biometric verification at an enrollment center.\n\nI can guide step-by-step or share official links.",
+    "citations": [
+      "gov_faqs.md#L2",
+      "gov_faqs.md#L4",
+      "gov_faqs.md#L3"
+    ],
+    "confidence": 0.23815384925283123
+  }
+]

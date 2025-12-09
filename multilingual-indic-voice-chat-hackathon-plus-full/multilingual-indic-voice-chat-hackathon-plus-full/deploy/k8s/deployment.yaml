@@ -1,0 +1,23 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: indic-voice-chat
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: indic-voice-chat
+  template:
+    metadata:
+      labels:
+        app: indic-voice-chat
+    spec:
+      containers:
+      - name: backend
+        image: indic-voice-chat:latest
+        ports:
+        - containerPort: 8000
+        env:
+        - name: KB_PATH
+          value: /app/app/../../data/kb

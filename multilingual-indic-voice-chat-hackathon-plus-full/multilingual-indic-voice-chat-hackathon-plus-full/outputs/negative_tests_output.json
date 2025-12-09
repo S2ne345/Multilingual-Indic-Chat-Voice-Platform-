@@ -1,0 +1,12 @@
+[
+  {
+    "query": "How to renew a U.S. driver's license in California?",
+    "lang": "en",
+    "answer": "(en) Partial info:\n- How to apply for a ration card? Visit the state civil supplies department portal. Submit proof of residence and identity. Processing typically takes 15–30 days.\n- How to check pension status? Use the e-pension portal with your ID; status updates appear within 48 hours after processing.\n\nHowever, context may be out-of-scope.",
+    "citations": [
+      "gov_faqs.md#L2",
+      "gov_faqs.md#L4"
+    ],
+    "confidence": 0.26121460441769906
+  }
+]
